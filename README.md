@@ -115,7 +115,7 @@ Topics covered in Hrwros_Week1:
 
 Reach out to me at one of the following places!
 
-- Linkedin at <a href="www.linkedin.com/in/joan-pedro" target="_blank">`Joan Pedro Oliveira de Souza`</a>
+- Linkedin at <a href="www.linkedin.com/in/joan-pedro" target="_blank">`www.linkedin.com/in/joan-pedro`</a>
 
 
 ---
