@@ -1,0 +1,6 @@
+devel_space: /home/joan/hrwros_ws/devel
+install: false
+install_space: /home/joan/hrwros_ws/install
+profile: default
+source_space: /home/joan/hrwros_ws/src
+workspace: /home/joan/hrwros_ws
