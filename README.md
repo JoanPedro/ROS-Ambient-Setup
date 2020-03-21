@@ -55,3 +55,14 @@ You will also need a course starter installation file, that will create some nec
 Installing new software inside the Course Command Shell (CCS)
 
 This image is read-only! So, if you try to implement solutions after googling your problems with 'sudo apt-get install ...', inside the Course Command Shell, it will not work. All necessary installs for this course have already been considered. So, you will never have to run 'sudo apt-get install ...' yourself, except for when you install Singularity.
+
+# Afterall
+
+Run the following commands in the CCS terminal: 
+
+```
+source /opt/ros/melodic/setup.bash
+cd $HOME/hrwros_ws
+catkin build
+source $HOME/hrwros_ws/devel/setup.bash
+```
