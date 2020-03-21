@@ -1,0 +1,14 @@
+[31m[1mCMake Error[0m at /home/joan/hrwros_ws/build/hrwros_msgs/cmake/hrwros_msgs-genmsg.cmake:3 (message):
+  Could not find messages which
+  '/home/joan/hrwros_ws/src/hrwros/hrwros_msgs/msg/BoxHeightInformation.msg'
+  depends on.  Did you forget to specify generate_messages(DEPENDENCIES ...)?
+
+  Cannot locate message [float] in package [hrwros_msgs] with paths
+  [['/home/joan/hrwros_ws/src/hrwros/hrwros_msgs/msg',
+  '/home/joan/hrwros_ws/devel/.private/hrwros_msgs/share/hrwros_msgs/msg']]
+[36mCall Stack (most recent call first):[0m
+  /opt/ros/melodic/share/genmsg/cmake/genmsg-extras.cmake:307 (include)
+  CMakeLists.txt:32 (generate_messages)
+
+
+make: *** [cmake_check_build_system] Error 1
