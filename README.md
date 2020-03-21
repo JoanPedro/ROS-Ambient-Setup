@@ -78,3 +78,21 @@ Topics covered in Hrwros_Week1:
 - Services
 - Actions
 - & Launch Files.
+
+---
+
+## FAQ
+
+- **How do I do *specifically* so and so?**
+    - No problem! Just do this.
+
+---
+
+## Support
+
+Reach out to me at one of the following places!
+
+- Linkedin at <a href="www.linkedin.com/in/joan-pedro" target="_blank">`Joan Pedro Oliveira de Souza`</a>
+
+
+---
