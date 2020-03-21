@@ -48,8 +48,9 @@ You will also need a course starter installation file, that will create some nec
 
 <a href="https://courses.edx.org/assets/courseware/v1/7d7f9ae82dfbbf2be2ce126022e63811/asset-v1:DelftX+ROS1x+1T2020+type@asset+block/install-hrwros-starter.sh"> install-hrwros-starter.sh (~1.4 kB)</a>
 
-# Download the file to your $USER/Downloads folder, startup a new terminal with Ctrl+Alt+T and run the command:
+# Download the file to your $USER/Downloads folder
 
+startup a new terminal with Ctrl+Alt+T and run the command:
 > $ bash $HOME/Downloads/install-hrwros-starter.sh
 
 Installing new software inside the Course Command Shell (CCS)
@@ -78,6 +79,28 @@ Topics covered in Hrwros_Week1:
 - Services
 - Actions
 - & Launch Files.
+
+---
+
+## Contributing
+
+> To get started...
+
+### Step 1
+
+- **Option 1**
+    - 🍴 Fork this repo!
+
+- **Option 2**
+    - 👯 Clone this repo to your local machine using `https://github.com/JoanPedro/ROS-Projects.git`
+
+### Step 2
+
+- **HACK AWAY!** 🔨🔨🔨
+
+### Step 3
+
+- 🔃 Create a new pull request using <a href="https://github.com/JoanPedro/ROS-Projects/compare" target="_blank">`https://github.com/JoanPedro/ROS-Projects/compare`</a>.
 
 ---
 
