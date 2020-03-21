@@ -1,4 +1,4 @@
-# BIR-Concepts: Setup Inicial
+# ROS Virtual: Setup Inicial
 
 Install Singularity
 
@@ -66,3 +66,15 @@ cd $HOME/hrwros_ws
 catkin build
 source $HOME/hrwros_ws/devel/setup.bash
 ```
+
+# Context 
+
+Topics covered in Hrwros_Week1:
+
+- Nodes
+- Topics
+- Publisher
+- Subscriber
+- Services
+- Actions
+- & Launch Files.
