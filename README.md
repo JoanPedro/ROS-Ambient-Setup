@@ -5,14 +5,14 @@ Install Singularity
 
 Select the singularity install file corresponding to the Ubuntu distribution you are using (either 16.04 or 18.04)
 
-    Singularity for <a href= "https://courses.edx.org/assets/courseware/v1/4beeefd3ac34401321609d7697f9097f/asset-v1:DelftX+ROS1x+1T2020+type@asset+block/singularity-container_2.6.1-1_amd64_ubuntu_xenial16.04.deb">Ubuntu 16.04</a>
+- Singularity for <a href= "https://courses.edx.org/assets/courseware/v1/4beeefd3ac34401321609d7697f9097f/asset-v1:DelftX+ROS1x+1T2020+type@asset+block/singularity-container_2.6.1-1_amd64_ubuntu_xenial16.04.deb">Ubuntu 16.04</a>
 
-    Singularity for <a href="https://courses.edx.org/assets/courseware/v1/626dbd92c8dd641c5657f8d9ec43ead2/asset-v1:DelftX+ROS1x+1T2020+type@asset+block/singularity-container_2.6.1-1_amd64_ubuntu_bionic18.04.deb">Ubuntu 18.04</a>
-    For Ubuntu 19.04 or newer, singularity can be installed directly from the repositories:
+- Singularity for <a href = "https://courses.edx.org/assets/courseware/v1/626dbd92c8dd641c5657f8d9ec43ead2/asset-v1:DelftX+ROS1x+1T2020+type@asset+block/singularity-container_2.6.1-1_amd64_ubuntu_bionic18.04.deb"> Ubuntu 18.04</a>
+For Ubuntu 19.04 or newer, singularity can be installed directly from the repositories:
 
-    > $ sudo apt-get install singularity-container
+> $ sudo apt-get install singularity-container
 
-   Disclaimer: Using singularity install files for 19.04 or newer is not recommended as the course instructors have not sufficiently tested this. So, any support on this will be minimal.
+***Disclaimer: Using singularity install files for 19.04 or newer is not recommended as the course instructors have not sufficiently tested this. So, any support on this will be minimal.***
 
 You can't install all of them!
 Download the Singularity image
