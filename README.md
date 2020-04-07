@@ -19,8 +19,6 @@ You can't install all of them!
 
 Download the course singularity image from this link: <a href= "https://surfdrive.surf.nl/files/index.php/s/pp59nr2PLr2QGNg/download"> hrwros-09.simg </a> (note: this file is approximately 1.1 GB, so the download may take a while).
 
-Warning: Some students have reported this file getting renamed during or after download. Please confirm this file is called hrwros-09.simg and is placed in your Downloads folder.
-
 # Verify the image downloaded successfully
 
 Now verify that the Singularity image downloaded successfully by following these steps.
@@ -70,7 +68,7 @@ source $HOME/hrwros_ws/devel/setup.bash
 
 # Context 
 
-Topics covered in Hrwros_Week1:
+Topics covered:
 
 - Nodes
 - Topics
